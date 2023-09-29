@@ -28,6 +28,6 @@ We hope you find the real-time analysis of the 2023 Presidential Election in Nig
 
 Happy exploring and analyzing the election data!
 
-![Uploading inec.JPG…]()
+![inec](https://github.com/OBAUDE95/-Real-time-Analysis-of-the-2023-Presidential-Election-in-Nigeria/assets/90180915/25968c28-632c-4e77-a095-22a63b62c3c6)
 
 
